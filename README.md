@@ -3,3 +3,5 @@
 |  #  | Project                                                                                           | LINK                                           |
 | :-: | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/adarshgowdaa/50projects50days/tree/main/ExpandingCards_Day1) | [LINK](https://expand-cards-day1.netlify.app/) |
+
+| 02 | [Progress Bar](https://github.com/adarshgowdaa/50projects50days/tree/main/ProgressBar_Day2) | [LINK](https://progress-bar-day2.netlify.app/) |
